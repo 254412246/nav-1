@@ -10,36 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="389541d2-fec5-4d90-995c-f1738fb2c99c" name="默认更改列表" comment="更新一些颜色，添加了几个网站">
-      <change afterPath="$PROJECT_DIR$/.cache/1b/2cc3709443c30ff12b941340291ca3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/22/0d5d9a9e86774ba0c81b51e01576db.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/33/9b5acd915c3a90cc6974c716653625.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/55/ddf9062d5c5d34fef037824ad24e8e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/71/723772c18a211c0636a5a77cb283f5.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/85/bf5929d79c4c8d512d149742e22945.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/c3/2d3d29ac93a85b9709ca8d2833960b.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/nav-1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/index.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/main.1f19ae8e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/main.1f19ae8e.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/style.e308ff8e.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/style.e308ff8e.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/style.e308ff8e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/style.e308ff8e.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/wallhaven-oxv9e5.a31e0580.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="389541d2-fec5-4d90-995c-f1738fb2c99c" name="默认更改列表" comment="更新一些颜色，添加了几个网站" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,10 +44,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="terminal" />
@@ -105,7 +79,7 @@
       <updated>1578060057324</updated>
       <workItem from="1578060059494" duration="21069000" />
       <workItem from="1578082140065" duration="943000" />
-      <workItem from="1598884853446" duration="1328000" />
+      <workItem from="1598884853446" duration="1908000" />
     </task>
     <servers />
   </component>
