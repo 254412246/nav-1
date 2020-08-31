@@ -10,7 +10,36 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="389541d2-fec5-4d90-995c-f1738fb2c99c" name="默认更改列表" comment="更新一些颜色，添加了几个网站" />
+    <list default="true" id="389541d2-fec5-4d90-995c-f1738fb2c99c" name="默认更改列表" comment="更新一些颜色，添加了几个网站">
+      <change afterPath="$PROJECT_DIR$/.cache/23/cdc4da37ee7bd51eb46bfd5fb09c84.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/4a/bc322cc023b38d38963dd1b6c19a71.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/71/7c6f28a6cebbadc18f1a01417f9a53.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/8b/eeac3abd4e14e3bcb4027ffd831a97.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/8d/171439db80c2a9fc4d133c487440ac.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/ba/740d22970edab693d06e08c90cb021.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/f1/69da72eeccd6d836ace12c3dd323cc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main.93428ecf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main.93428ecf.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/style.9c329e72.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/style.9c329e72.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/wallhaven-oxv9e5.f699c40d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/85/bf5929d79c4c8d512d149742e22945.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/85/bf5929d79c4c8d512d149742e22945.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.1f19ae8e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.1f19ae8e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style.e308ff8e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style.e308ff8e.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style.e308ff8e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style.e308ff8e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/wallhaven-oxv9e5.a31e0580.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +108,7 @@
       <updated>1578060057324</updated>
       <workItem from="1578060059494" duration="21069000" />
       <workItem from="1578082140065" duration="943000" />
-      <workItem from="1598884853446" duration="1908000" />
+      <workItem from="1598884853446" duration="2656000" />
     </task>
     <servers />
   </component>
